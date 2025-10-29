@@ -19,7 +19,7 @@ A vibrant, dark-mode CSS template inspired by synthwave and cyberpunk aesthetics
 ## Code Snippets + customization
 
 **The Pulsing H1 Glow:**
-**Custumize colors to your desire as well! Experiment!
+Customize colors to your desire as well! Experiment!
 ```css
 h1 {
     color: #00ffff; 

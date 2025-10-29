@@ -29,4 +29,8 @@ h1 {
 
 @keyframes neonGlow {
 }
+```
+## Example
+<img width="1728" height="1117" alt="Screenshot 2025-10-29 at 12 53 11 AM" src="https://github.com/user-attachments/assets/413746f6-6f2a-43ab-a1c5-7af18bbf47e1" />
+
 

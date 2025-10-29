@@ -10,7 +10,7 @@ A vibrant, dark-mode CSS template inspired by synthwave and cyberpunk aesthetics
 
 1.  **Clone the repository:**
     ```bash
-    git clone ____
+    git clone  https://github.com/Agent00Matisse7/NEON-NIGHTLIFE-CSS-THEME.git
     ```
 2.  **Link the CSS:** Ensure your HTML file is linked to `style.css`.
 3.  **Apply Classes:** Use the provided classes like `.neon-button`, `.neon-container`, and `.center-text`.
